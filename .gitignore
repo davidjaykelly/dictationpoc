@@ -1,0 +1,19 @@
+# Moodle plugin Git ignore
+
+# Ignore temporary system files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+*.code-workspace
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Moodle local cache/session (if ever symlinked)
+moodledata/
