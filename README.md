@@ -7,9 +7,7 @@ A proof-of-concept custom Moodle question type designed for dictation-style Engl
 - Teacher UI for:
   - Uploading an audio file (MP3 or other Moodle-supported formats)
   - Entering a sentence manually (with plans to support underscore-based blanks)
-- Student UI for:
-  - Playing the audio
-  - Submitting a single text response
+
 
 ## Not Yet Implemented (Planned for Full Version)
 - Word-level blank handling with per-word input boxes
@@ -28,6 +26,3 @@ A proof-of-concept custom Moodle question type designed for dictation-style Engl
 ## Author
 David Kelly (2025)
 https://davidkel.ly
-
-## License
-GNU GPL v3 or later - see [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html)
